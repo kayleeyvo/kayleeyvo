@@ -10,11 +10,11 @@ Outside of academics, I’m an animal lover. I frequent acquariums, zoos, cafes 
 
 ## Class Projects
 
-### Project 1: [Telecom Churn: Prediction and Causal Inference]()
+### Project 1: [Telecom Churn: Prediction and Causal Inference](https://github.com/kayleeyvo/cs109a/blob/main/MS5.ipynb)
 
-### Project 2: [Super Restore: A Time Series Analysis of Runescape’s Most Popular Potion]()
+### Project 2: [Super Restore: A Time Series Analysis of Runescape’s Most Popular Potion](https://github.com/kayleeyvo/e-116/blob/main/E-116_Report.pdf)
 
-### Project 3: [The Effect of Medicaid Expansion on Medicare and Medicaid Hospitals]()
+### Project 3: [The Effect of Medicaid Expansion on Medicare and Medicaid Hospitals](https://github.com/kayleeyvo/e-83/blob/main/final_project.ipynb)
 
 ## Personal Blog
 
